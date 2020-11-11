@@ -1,0 +1,6 @@
+﻿D:\VisualStudio\Download\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+D:\VisualStudio\Download\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+SandboxApp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl PC::Application::Application(void)" (__imp_??0Application@PC@@QEAA@XZ) referenced in function "public: __cdecl App::App(void)" (??0App@@QEAA@XZ)
+SandboxApp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl PC::Application::~Application(void)" (__imp_??1Application@PC@@UEAA@XZ) referenced in function "public: virtual __cdecl App::~App(void)" (??1App@@UEAA@XZ)
+SandboxApp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl PC::Application::Run(void)" (__imp_?Run@Application@PC@@QEAAXXZ) referenced in function main
+D:\VisualStudio\PaperCraft\bin\Debug-x64\Sandbox\Sandbox.exe : fatal error LNK1120: 3 unresolved externals

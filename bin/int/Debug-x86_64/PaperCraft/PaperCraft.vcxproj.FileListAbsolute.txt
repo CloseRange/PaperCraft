@@ -1,0 +1,2 @@
+D:\VisualStudio\PaperCraft\bin\bin\Debug-x86_64\PaperCraft\PaperCraft.pdb
+D:\VisualStudio\PaperCraft\bin\int\Debug-x86_64\PaperCraft\PaperCraft.pdb
